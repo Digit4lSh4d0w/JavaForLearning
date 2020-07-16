@@ -1,0 +1,2 @@
+main-class: Ideone
+class-path: bin/
